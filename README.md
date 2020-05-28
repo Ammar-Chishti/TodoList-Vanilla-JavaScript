@@ -1,2 +1,2 @@
 # TodoList-Vanilla-JavaScript
-McKenna's solution for CSE 316 HW 1's todoList program in Vanilla JS using the MVC Architecture
+NOTE THAT THIS IS NOT MY WORK. THIS IS THE PROFESSOR's SOLUTION AND I AM KEEPING IT HERE AS A REFERENCE FOR THE MVC ARCHITECTURE
